@@ -2,7 +2,7 @@
 
 **Content Warning: This page contains language that is offensive or harmful. Please engage with this page at your own pace.**
 
-This repository contains tabulated data from Stanford's [Elimination of Harmful Language Initiative](https://itcommunity.stanford.edu/news/introducing-elimination-harmful-language-initiative-website). The data was accessed from a [December 19, 2022 snapshot](http://web.archive.org/web/20221219160303/https://itcommunity.stanford.edu/ehli) of the site, which has since been mirrored by various media outlets including the [Wall Street Journal](https://s.wsj.net/public/resources/documents/stanfordlanguage.pdf). The purpose of this repository is to present the data from the website in machine-readable format, e.g. for use in content filters.
+This repository contains tabulated data from Stanford's [Elimination of Harmful Language Initiative](https://itcommunity.stanford.edu/news/introducing-elimination-harmful-language-initiative-website). The data was accessed from a [December 19, 2022 snapshot](http://web.archive.org/web/20221219160303/https://itcommunity.stanford.edu/ehli) of the site, which has since been mirrored by various media outlets including the [Wall Street Journal](https://s.wsj.net/public/resources/documents/stanfordlanguage.pdf). The purpose of this repository is to present the data from the website in machine-readable format, e.g. for compatibility with content filters.
 
 ## Dataset
 
