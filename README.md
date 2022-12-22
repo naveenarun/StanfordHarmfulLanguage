@@ -1,5 +1,7 @@
 # Stanford Harmful Language Initiative Dataset
 
+**Content Warning: This page contains language that is offensive or harmful. Please engage with this page at your own pace.**
+
 This repository contains tabulated data from Stanford's [Elimination of Harmful Language Initiative](https://itcommunity.stanford.edu/news/introducing-elimination-harmful-language-initiative-website), extracted from a [December 19, 2022 snapshot](http://web.archive.org/web/20221219160303/https://itcommunity.stanford.edu/ehli) of the site.
 
 ## Dataset
