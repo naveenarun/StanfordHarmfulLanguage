@@ -6,7 +6,7 @@ This repository contains tabulated data from Stanford's [Elimination of Harmful 
 
 ## Dataset
 
-The dataset can be accessed [here](Stanford_harmful_language_dataset.csv). A sample of the data is shown below:
+The dataset can be accessed [here](Stanford_harmful_language_dataset.csv) and downloaded with [this link](https://github.com/naveenarun/StanfordHarmfulLanguage/archive/refs/heads/main.zip). A sample of the data is shown below:
 
 | Category | Instead of  | Consider using                       | Context                                                                                                       |
 |----------|-------------|--------------------------------------|---------------------------------------------------------------------------------------------------------------|
